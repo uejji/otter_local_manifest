@@ -22,6 +22,7 @@
   </project>
 
   <!-- modified CM projects -->
+  <project path="frameworks/base" name="uejji/android_frameworks_base" revision="jellybean" />
   <project path="hardware/libhardware" name="KFire-Android/android_hardware_libhardware" revision="jellybean" />
   <project path="hardware/libhardware_legacy" name="KFire-Android/android_hardware_libhardware_legacy" revision="jellybean" />
   <project path="system/core" name="KFire-Android/android_system_core" revision="jellybean" />
